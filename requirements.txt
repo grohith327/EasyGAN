@@ -1,6 +1,6 @@
 numpy
 tqdm
-tensorflow==2.0
+tensorflow==2.0.1
 opencv-python
 tensorflow-datasets
 imageio
